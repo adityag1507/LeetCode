@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/adityag1507/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/adityag1507/LeetCode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
