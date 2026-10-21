@@ -63,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/adityag1507/LeetCode/tree/master/2235-add-two-integers) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adityag1507/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adityag1507/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adityag1507/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adityag1507/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
