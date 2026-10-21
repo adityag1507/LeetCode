@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityag1507/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/adityag1507/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
